@@ -44,8 +44,8 @@ function preload()
   
   batImage = loadImage("assets/bat.png");
 
-  gameoverImg = loadImage("assets/gameOver.png");
-  restartImg = loadImage("assets/restart.png");
+  gameoverImg = loadImage("assets/gameoverpt.png");
+  restartImg = loadImage("assets/restartpt.png");
 
 }
 
